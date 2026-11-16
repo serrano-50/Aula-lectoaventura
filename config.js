@@ -8,7 +8,7 @@
 window.AULA_CONFIG = {
   // URL de la aplicación web de Google Apps Script (termina en /exec).
   // Vacía = "modo demostración": el sitio funciona pero no guarda nada en Drive.
-  API_URL: "",
+  API_URL: "https://script.google.com/macros/s/AKfycbzrSAIYkeI3HK_Lx-2qolTRq19SCdDWcTEghTnfZxQ65i4zsy8IxSjLs79IkUhI8GBKiw/exec",
 
   // Carpeta de Drive donde está el APK y la imagen del celular.
   // El botón "Descargar aplicación APK" abre esta carpeta mientras el script no esté conectado;
